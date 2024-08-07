@@ -1,1 +1,1 @@
-# PatikaWeek4Homework2
+<span style="font-size:0.5em;"> # PatikaWeek4Homework2 bu pratikte, Baby sınıfı tanımlanmış ve  iki constructor içermektedir. Biri Default constructor diğeri ise FirstName ve LastName paremtresini alan constructor. Her iki constructorda da BirthDate oluşturuluyor ve ekrana "Ingaaa" yazılıyor.</span>
